@@ -1,0 +1,11 @@
+>>> x = 2
+>>> y = 3
+>>> if(x == y):
+	print("Números iguais")
+elif(x < y):
+	print("X é menor que Y")
+else:
+	print("Números diferentes")
+
+	
+X é menor que Y
