@@ -1,0 +1,10 @@
+var1 = "String"
+var2 = 12.89
+var3 = 10
+print(var1)
+String
+print(var2)
+12.89
+print(var3)
+10
+#A 1a é string, a 2a é float e a 3a é int
