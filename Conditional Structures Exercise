@@ -1,0 +1,9 @@
+>>> x = 2
+>>> y = 3
+>>> if(x > y):
+	print("x é maior")
+elif(x < y):
+	print("x é menor")
+
+	
+x é menor
