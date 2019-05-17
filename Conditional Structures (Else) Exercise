@@ -1,0 +1,9 @@
+>>> x = 2
+>>> y = 3
+>>> if(x > y):
+	print("X é maior que Y")
+else:
+	print("X é menor que Y")
+
+	
+X é menor que Y
