@@ -1,0 +1,16 @@
+>>> string = "Stefano Maligieri"
+>>> print(string.lower())
+stefano maligieri
+>>> print(string.upper())
+STEFANO MALIGIERI
+>>> print(string.strip())
+Stefano Maligieri
+>>> print(string.split())
+['Stefano', 'Maligieri']
+>>> print(string.split("e"))
+['St', 'fano Maligi', 'ri']
+>>> print(string.find("Ste"))
+0
+>>> trocada = string.replace("Stefano", "Bolacha")
+>>> print(trocada)
+Bolacha Maligieri
