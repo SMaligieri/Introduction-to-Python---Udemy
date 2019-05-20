@@ -1,0 +1,16 @@
+>>> def soma(a,b):
+	print(a + b)
+
+	
+>>> soma(2,3)
+5
+>>> def soma(x,y):
+	return x + y
+
+>>> def mult(x,y):
+	return x * y
+
+>>> s = soma(10,11)
+>>> m = mult(4,5)
+>>> print(soma(s,m))
+41
