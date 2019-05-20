@@ -1,0 +1,18 @@
+>>> minha_lista = ["abacaxi", "banana", "caju", "damasco"]
+>>> print(minha_lista)
+['abacaxi', 'banana', 'caju', 'damasco']
+>>> print(minha_lista[0])
+abacaxi
+>>> len(minha_lista)
+4
+>>> minha_lista.append("limão")
+>>> print(minha_lista)
+['abacaxi', 'banana', 'caju', 'damasco', 'limão']
+>>> if "banana" in minha_lista:
+	print("Banana está na lista")
+
+	
+Banana está na lista
+>>> del minha_lista[4]
+>>> print (minha_lista)
+['abacaxi', 'banana', 'caju', 'damasco']
