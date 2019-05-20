@@ -1,0 +1,17 @@
+>>> var1 = "Stefano"
+>>> var2 = "Maligieri"
+>>> concatenar = var1 + " " + var2
+>>> print(concatenar)
+Stefano Maligieri
+>>> tamanho = len(concatenar)
+>>> print(tamanho)
+17
+>>> primeiro_nome = (var1[0:])
+>>> print(primeiro_nome)
+Stefano
+>>> último_nome = (var2[0:])
+>>> print(último_nome)
+Maligieri
+>>> pedaço = (var1[0:4])
+>>> print(pedaço)
+Stef
