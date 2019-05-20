@@ -1,0 +1,9 @@
+>>> a = 2
+>>> b = 0
+>>> try:
+	a/b
+except:
+	print("Não é permitido dividir por zero")
+
+	
+Não é permitido dividir por zero
