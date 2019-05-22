@@ -1,0 +1,6 @@
+if idade >= 18:
+    print("O indivíduo é maior de idade")
+elif idade > 0 and idade < 18:
+    print("O indivíduo é menor de idade")
+else:
+    print("Idade inválida")
