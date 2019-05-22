@@ -1,0 +1,4 @@
+lista = [15, 12, 17]
+lista.sort()
+print(lista)
+lista = [12, 15, 17]
