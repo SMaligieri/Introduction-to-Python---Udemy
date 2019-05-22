@@ -1,0 +1,14 @@
+nota1 = int(input("Nota 1: "))
+nota2 = int(input("Nota 2: "))
+
+média = (nota1 + nota2)/2
+print(média)
+
+if média >= 6:
+    print("Aprovado")
+elif média >= 3 and média < 6:
+    print("Exame")
+elif média >= 0 and média < 3:
+    print("Reprovado")
+else:
+    print("Erro")
