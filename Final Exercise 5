@@ -2,11 +2,11 @@ a = float(input("Digite o valor de a: "))
 b = float(input("Digite o valor de b: "))
 operador = input("Digite o operador: ")
 
-if operador is "+":
+if operador == "+":
     print(a + b)
-elif operador is "-":
+elif operador == "-":
     print(a - b)
-elif operador is "*":
+elif operador == "*":
     print(a * b)
-elif operador is "/":
+elif operador == "/":
     print(a / b)
