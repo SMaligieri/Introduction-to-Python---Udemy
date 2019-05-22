@@ -1,0 +1,12 @@
+a = float(input("Digite o valor de a: "))
+b = float(input("Digite o valor de b: "))
+operador = input("Digite o operador: ")
+
+if operador is "+":
+    print(a + b)
+elif operador is "-":
+    print(a - b)
+elif operador is "*":
+    print(a * b)
+elif operador is "/":
+    print(a / b)
